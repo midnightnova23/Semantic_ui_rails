@@ -1,6 +1,6 @@
 # SemanticUiRails
 
-TODO: Write a gem description
+A Rails gem to integrate the Semantic-UI framework into the asset pipeline
 
 ## Installation
 
